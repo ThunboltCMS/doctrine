@@ -1,0 +1,9 @@
+{
+	"name": "thunbolt/doctrine",
+	"type": "library",
+	"autoload": {
+		"psr-4": {
+			"Thunbolt\\Doctrine\\": ["src/"]
+		}
+	}
+}
